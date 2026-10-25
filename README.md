@@ -94,14 +94,10 @@ plt.show()
 
 
 
-REGULAR DIFFERENCING:
+<img width="1128" height="691" alt="ex1(b) output graph first" src="https://github.com/user-attachments/assets/43948fab-6d84-406c-b7c8-adf3536e25ea" />
 
 
-SEASONAL ADJUSTMENT:
-
-
-LOG TRANSFORMATION:
-
+<img width="1088" height="700" alt="ex1(b) output graph second" src="https://github.com/user-attachments/assets/c20a3506-3825-40ca-9e66-0caf85c47aaa" />
 
 
 ### RESULT:
